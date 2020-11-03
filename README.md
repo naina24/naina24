@@ -1,5 +1,7 @@
-### Hi there 👋
+### Hiii there 👋,I am Naina Kumari
+I am Second Year student of IIITA 
 
+- 🌱 I’m currently learning Backend WebD
 <!--
 **naina24/naina24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
