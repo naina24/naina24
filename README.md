@@ -1,5 +1,5 @@
 ### Hiii there 👋,I am Naina Kumari
-I am Second Year student of IIITA 
+I am Pre-final student of IIITA 
 
 <!--
 **naina24/naina24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
